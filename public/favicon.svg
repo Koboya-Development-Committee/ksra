@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="#1a365d" />
+  <polygon points="50,15 85,35 85,85 50,95 15,85 15,35" fill="#2b6cb0" />
+  <polygon points="50,30 70,45 70,70 50,78 30,70 30,45" fill="#ebf8ff" />
+  <text x="50" y="63" font-family="monospace" font-size="30" font-weight="bold" fill="#1a365d" text-anchor="middle">KS</text>
+</svg>
